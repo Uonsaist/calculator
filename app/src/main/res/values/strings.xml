@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">calculator</string>
+    <string name="contacts.text">Контакты</string>
+    <string name="about.text">Про нас</string>
+    <string name="main_scena.text">Главная</string>
+    <string name="logo_of_app_1">Sophi</string>
+    <string name="logo_of_app_2">art</string>
 </resources>
